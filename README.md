@@ -3,6 +3,8 @@
 
 ### I'm Software Engineer Student and passionate about programming.
 
+![LogoBanner](https://media.istockphoto.com/vectors/computer-science-word-concepts-banner-vector-id1173371416?k=20&m=1173371416&s=170667a&w=0&h=g-s5C75Vf0rlkQc7LpPJUIIvTg4gIJtmkaTfNLQ9hOQ=)
+
 ## Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)

@@ -19,4 +19,4 @@
 
 
 ## Contact me:
-[![Gmail](https://img.shields.io/badge/Gmail-CristianSalgado312@Gmail.com-E4405F?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](mailto:cristiansalgado312@gmail.com?subject=Contacto&body=prueba%20email)
+[![Gmail](https://img.shields.io/badge/Gmail-CristianSalgado312@Gmail.com-E4405F?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](mailto:cristiansalgado312@gmail.com?subject=Hola%20Cristian%20Salgado)

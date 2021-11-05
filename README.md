@@ -6,6 +6,12 @@
 ![Followers](https://img.shields.io/github/followers/Cristian-AS?color=%23530AF0&label=Seguidores%20%40Cristian_A_S&logo=Twitter&logoColor=%2300&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/followers/Cristian-AS?color=%23530AF0&label=Seguidores&logo=GitHub&logoColor=%2300&style=for-the-badge)
 
+I am a software engineering student.
+
+I love programming, every day I learn something new, nowadays I love the areas of mobile development on Android devices and web front-end.
+
+I like to contribute a grain of sand in helping people in the programming area, I like teamwork and creating new projects. Also, I never stop learning.
+
 
 ![LogoBanner](https://media.istockphoto.com/vectors/computer-science-word-concepts-banner-vector-id1173371416?k=20&m=1173371416&s=170667a&w=0&h=g-s5C75Vf0rlkQc7LpPJUIIvTg4gIJtmkaTfNLQ9hOQ=)
 

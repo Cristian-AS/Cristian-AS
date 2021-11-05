@@ -25,7 +25,7 @@ I like to contribute a grain of sand in helping people in the programming area, 
 
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@Cristian_A_S-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=101010)](https://twitter.com/Criss_A_S)
-[![Linkedin](https://img.shields.io/badge/Linkedin-Cristian_Salgado-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristian-avenda%C3%B1o-salgado-04918b20a/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Cristian_Salgado-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristian-avenda%C3%B1o-salgado/)
 [![Instagram](https://img.shields.io/badge/Instagram-Cristian_Salgado-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/cristiian_salgadoo/)
 
 

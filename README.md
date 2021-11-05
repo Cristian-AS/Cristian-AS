@@ -3,8 +3,8 @@
 
 ### I'm Software Engineer Student and passionate about programming.
 
-![Followers](https://img.shields.io/github/followers/Cristian-AS?color=%23530AF0&label=Seguidores%20%40Cristian_A_S&logo=Twitter&logoColor=%2300&style=for-the-badge)
-![GitHub](https://img.shields.io/github/followers/Cristian-AS?color=%23530AF0&label=Seguidores&logo=GitHub&logoColor=%2300&style=for-the-badge)<br/>
+[![Followers](https://img.shields.io/github/followers/Cristian-AS?color=%23530AF0&label=Seguidores%20%40Cristian_A_S&logo=Twitter&logoColor=%2300&style=for-the-badge)](https://twitter.com/Criss_A_S)
+[![GitHub](https://img.shields.io/github/followers/Cristian-AS?color=%23530AF0&label=Seguidores&logo=GitHub&logoColor=%2300&style=for-the-badge)](https://github.com/Cristian-AS)<br/>
 
 ![LogoBanner](https://media.istockphoto.com/vectors/computer-science-word-concepts-banner-vector-id1173371416?k=20&m=1173371416&s=170667a&w=0&h=g-s5C75Vf0rlkQc7LpPJUIIvTg4gIJtmkaTfNLQ9hOQ=)
 

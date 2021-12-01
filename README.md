@@ -10,14 +10,12 @@
 
 I'm a software engineering student.
 
-I love programming, every day, I learn something new, nowadays I love the areas of mobile development on Android devices and web front-end.
+I love programming, every day I learn something new, nowadays I love the front-end web areas and computer vision.
 
 I like to contribute a grain of sand in helping people in the programming area, I like teamwork and creating new projects. Also, I never stop learning.
 
 ## Skills:
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
-[![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
+[![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)

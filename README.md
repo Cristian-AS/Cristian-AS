@@ -15,11 +15,16 @@ I love programming, every day I learn something new, nowadays I love the front-e
 I like to contribute a grain of sand in helping people in the programming area, I like teamwork and creating new projects. Also, I never stop learning.
 
 ## Skills:
-[![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
+[![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
+[![React](https://img.shields.io/badge/React-5DADE2?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
+[![Node](https://img.shields.io/badge/NodeJS-2ECC71?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
+[![Android](https://img.shields.io/badge/Android-17A589?style=for-the-badge&logo=Android&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7D3C98?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
+[![Git](https://img.shields.io/badge/Git-F39C12?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
 
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@Cristian_A_S-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=101010)](https://twitter.com/Criss_A_S)

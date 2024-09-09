@@ -8,11 +8,7 @@
 
 ![LogoBanner](https://media.istockphoto.com/vectors/computer-science-word-concepts-banner-vector-id1173371416?k=20&m=1173371416&s=170667a&w=0&h=g-s5C75Vf0rlkQc7LpPJUIIvTg4gIJtmkaTfNLQ9hOQ=)
 
-I'm a software engineering student.
-
-I love programming, every day I learn something new, nowadays I love the front-end web areas and computer vision.
-
-I like to contribute a grain of sand in helping people in the programming area, I like teamwork and creating new projects. Also, I never stop learning.
+I am a constantly evolving Software Engineer with a strong background and experience in personal projects. I am passionate about learning new technologies and applying them to create efficient solutions. I seek an environment that allows me to grow professionally and contribute to impactful projects. I am an enthusiastic collaborator, always willing to learn from others and share my knowledge.
 
 ## Skills:
 [![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)

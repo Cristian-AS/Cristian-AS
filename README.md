@@ -30,7 +30,7 @@ I like to contribute a grain of sand in helping people in the programming area, 
 [![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
 [![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
 [![hibernate](https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
-[![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=#4479A1)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
+[![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
 [![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
 [![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
 

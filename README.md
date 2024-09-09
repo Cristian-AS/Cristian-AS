@@ -25,6 +25,10 @@ I like to contribute a grain of sand in helping people in the programming area, 
 [![Android](https://img.shields.io/badge/Android-17A589?style=for-the-badge&logo=Android&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7D3C98?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
 [![Git](https://img.shields.io/badge/Git-F39C12?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=#181717)](https://github.com/Cristian-AS/Cristian-AS/blob/main)<br/>
+[![spring](https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=#6DB33F)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
+[![springboot](https://img.shields.io/badge/springboot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=##6DB33F)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
+[![hibernate](https://img.shields.io/badge/hibernate-#59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=#59666C)](https://github.com/Cristian-AS/Cristian-AS/blob/main)
 
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@Cristian_A_S-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=101010)](https://twitter.com/Criss_A_S)
